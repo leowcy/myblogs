@@ -5,3 +5,5 @@
 	- Cache
 
 - Database
+- OS
+- My NBA2K Life
